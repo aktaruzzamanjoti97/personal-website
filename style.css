@@ -49,8 +49,11 @@ p{
 .half-width img{
     width: 100%;
 }
+.half-width h2{
+    color: #363958;
+}
 .link{
-    background-image: linear-gradient(lightsalmon,tomato);
+    background-image: linear-gradient(180deg,lightblue,red);
     padding: 10px 20px;
     text-decoration: none;
     color: white;
@@ -61,7 +64,11 @@ section{
     height: 600px;
 }
 .latest{
+    padding-top: 8%;
+    padding-bottom: 2%;
+    font-size: 40px;
     text-align: center;
+    color: #363958;
 }
 .span{
     color: #f46060;
@@ -98,4 +105,16 @@ section{
 .work-inquiry a{
     float: right;
     padding-top: 2%;
+}
+.last-part{
+    text-align: center;
+
+}
+.finishing{
+    text-align: center;
+    image
+}
+.f{
+    font-size: 12px;
+    text-align: center;
 }
