@@ -1,0 +1,101 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    padding-top: 30px;
+    width: 90%;
+    height: 70px;
+    background-color: whitesmoke;
+}
+ul{
+    width: auto;
+    float: right;
+    margin-top: 8px;
+}
+li{
+    display: inline-block;
+}
+.nav{
+    padding-right: 10%;
+    text-decoration: none;
+    text-align: center;
+    background-image: linear-gradient(lightsalmon,tomato);
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+    
+}
+
+.h1-class{
+    font-size: 40px;
+    padding-top: 100px;
+    color: slateblue;
+}
+.h1-class2{
+    color: tomato;
+    font-size: 40px;
+}
+p{
+    color: dimgrey;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.link{
+    background-image: linear-gradient(lightsalmon,tomato);
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+   
+}
+section{
+    height: 600px;
+}
+.latest{
+    text-align: center;
+}
+.span{
+    color: #f46060;
+}
+.one-third{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    height: 80%;
+    box-shadow: 10px 10px 40px gray;
+    
+}
+.one-third img{
+    width: 100%;
+}
+.third-area{
+    height: auto;
+}
+.work-inquiry{
+    background-image: url(./images/inquiry.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+    background-position: center;
+    color: white;
+    margin: 5% 20%;
+    padding: 4%;
+}
+.work-inquiry h1{
+    display: inline;
+    font-size: 40px;
+}
+.work-inquiry a{
+    float: right;
+    padding-top: 2%;
+}
